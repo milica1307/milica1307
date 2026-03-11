@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Milica 😊
 
-<!--
-**milica1307/milica1307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Information Systems and Technologies Student`**
 
-Here are some ideas to get you started:
+Passionate about building scalable software and extracting insights from data.
+I focus on the intersection of Software Development and Data Science/ML.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻Technical Focus:
+Software Dev: Building functional, clean-coded applications.  
+Data Science & ML: Exploring predictive modeling and data-driven automation.  
+Cloud & DevOps: Implementing containerization (Docker) into the development workflow.
+
+---
+
+### 🌱Current Journey  
+Still exploring the vast world of IT to see where my skills fit best. I enjoy the challenge of learning new frameworks and applying them to real-world problems.
