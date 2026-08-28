@@ -1,6 +1,6 @@
 ## Hi, I'm Milica 😊
 
-**`Information Systems and Technologies Student`**
+**`Information Systems and Technologies Graduate`**
 
 Passionate about building scalable software and extracting insights from data.
 I focus on the intersection of Software Development and Data Science/ML.
